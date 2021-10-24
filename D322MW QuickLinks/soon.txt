@@ -1,0 +1,36 @@
+<html>
+
+	<head>
+		<title="d322mw quicklinks">
+	</head>
+
+
+		<head>
+
+			<body background="bgbb.png">
+
+<frame="5">
+<center><h1><font color="yellow">Coming Soon</font></h1>
+
+		<center><h1><font color="yellow">D322MW JUNK-Websites</font></h1>
+		<center><h2><font color="yellow">Won't be up probably unless I make them free doman</font></h1>
+
+</frame>
+
+
+
+
+
+
+		<h4><font color="yellow">©2021 All Rights Reserved To D322MW</font></h4>
+		<p><font color="yellow">All Created and Coded by D322MW</font></p>
+
+
+
+
+
+
+		</head>
+
+
+</html>

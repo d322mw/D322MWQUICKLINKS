@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<head>
+<style>
+
+
+
+
+</style>
+</head>
+
+<body background="slime22.png">
+
+<div style="width: 800px; height: 5000px; text-align: center; margin: auto; background-color: #1E1E1E;">
+
+<center>
+<img src="56.png" style="width: 200px; height: 200px; padding-top: 150px; padding-left: 150px;">
+
+<h1>Loooooserrr!!!!</h1>
+
+</center>
+
+<a> href="file:///C:/Users/Mike%20The%20MD-11/Desktop/Web/D322MW1/d322me.html"<button>Main Wesbite</button></a>
+
+
+</body>
+
+</html>

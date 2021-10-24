@@ -1,0 +1,105 @@
+<!DOCTYPE HTML>
+<html>
+
+	<head>
+
+		<title="d322mw quicklinks"
+	<style>
+	</style>
+
+
+	</head>
+
+	<body>
+
+
+		<left><body background="bg44.jpg">
+
+		<img src="logo111.gif" style="width: 500px; padding-top: 130px; padding-left: 400px;">
+
+		<img src="hrline.png" width="1250" style="width: 500px; padding-top: 10px; padding-left: 400px;"/>
+
+		<center><font color="yellow"><h3>Links</font></h3>
+
+
+
+				<div style="position:absolute; top:350px; left:240px">
+				<img src="mainweb.png" width="120" />
+
+				</div>
+		
+					<div style="position:absolute; top:370px; left:370px">
+					<a href="file:///C:/Users/Mike%20The%20MD-11/Desktop/Web/D322MW1/d322me.html"><button><h3><font color="blue">Main Wesbite</font></h3></button></a>
+					</div>
+		
+
+
+
+					<div style="position:absolute; top:350px; left:550px">
+					<img src="bncm.png" width="120" />
+
+					</div>
+
+					<div style="position:absolute; top:370px; left:680px">
+					<a href="https://d322mwunited.bandcamp.com/"><button><h3><font color="blue">BandCamp</font></h3></button></a>
+					</div>
+		
+
+					
+					<div style="position:absolute; top:350px; left:850px">
+					<img src="youtubech.png" width="120" />
+
+					</div>
+
+					<div style="position:absolute; top:370px; left:980px">
+					<a href="https://www.youtube.com/c/D322MWUNITED/"><button><h3><font color="blue">Youtube</font></h3></button></a>
+					</div>
+
+		
+					
+					
+					<div style="position:absolute; top:470px; left:140px">
+					<img src="hrline.png" width="1000" />
+					</div>
+					
+
+			
+
+
+
+
+
+
+					<div style="position:absolute; top:670px; left:140px">
+					<img src="hrline.png" width="1000" />
+					</div>
+
+
+
+
+
+
+
+
+
+
+
+
+					<div style="position:absolute; top:870px; left:140px">
+					<img src="hrline.png" width="1000" />
+					</div>
+
+
+		
+			<div style="position:absolute; top:1150px; left:450px">
+		<h2><font color="white">©2021 All Rights Reserved To D322MW</font></h2>
+		<h3><font color="white">All Created and Coded by D322MW</font></h3>
+		</div>
+
+
+	</body>
+
+</html>
+
+
+
